@@ -32,7 +32,7 @@
 			DECLARE_ENCODERS;
 			bindings = <
 				// buttons
-				&ltmkp LAYER_SNIPE ENTER  &ltmkp LAYER_SCROLL ESC
+				&ltmkp LAYER_SNIPE LC(W)  &ltmkp LAYER_SCROLL ESC
 				&mkp MCLK                 &kp DELETE
 				&mkp LCLK                 &mkp RCLK
 				&ltm LAYER_EXTRAS MB4     &ltm LAYER_DEVICE MB5
